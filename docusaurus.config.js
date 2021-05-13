@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Valay Systems',
+  title: 'Valar Systems',
   tagline: 'Documentation',
   url: 'https://daniel-frenkel.github.io',
   baseUrl: '/',
